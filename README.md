@@ -1,1 +1,1 @@
-# Factor-Analysis-using-R
+# Factor Analysis
