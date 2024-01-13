@@ -1,9 +1,10 @@
 # Factor Analysis using R
 
-### *Data:-* 
+### Data:-  
 Advertisment Firm's Celebrity Dataset
 
 
-*Attributes:-* Attractive, Classy, Beautiful, Elegant, Sexy, Dependable, Honest, Reliable, Trustworthy, Sincere, Expect, Experienced, Knowledgeable, Qualified.
+### Attributes:- 
+Attractive, Classy, Beautiful, Elegant, Sexy, Dependable, Honest, Reliable, Trustworthy, Sincere, Expect, Experienced, Knowledgeable, Qualified.
 
-*Problem Statement:-* 
+### Problem Statement:-* 
