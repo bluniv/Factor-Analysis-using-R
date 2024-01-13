@@ -9,6 +9,8 @@ Attractive, Classy, Beautiful, Elegant, Sexy, Dependable, Honest, Reliable, Trus
 ### Problem Statement:-
 Given advertisement firm has a list of all their celebrities which they choose for shoots to endorse products. Since their database has over 14 features which explain the celebrity's corresponding attribute, it becomes difficult to choose a celebrity for any particular shoot.
 
+### Analysis:-
+
 Factor analysis is a dimensionality reduction technique.
 
 Before using FA we will test its eligibility using KMO and Bartlett's Tests.
